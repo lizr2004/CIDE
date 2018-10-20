@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MARGIN_FOLD_INDEX	bait.c	7;"	kind:macro	file:
+PLAT_GTK	bait.c	4;"	kind:macro	file:
+SSM	bait.c	8;"	kind:macro	file:
+ct	bait.c	28;"	kind:variable
+ev	bait.c	62;"	kind:function	signature:(GtkWidget*a, GdkEventAny*e, gpointer p)
+exit_app	bait.c	58;"	kind:function	file:	signature:(GtkWidget*w, GdkEventAny*e, gpointer p)
+gdk_trans_pixbuf	bait.c	9;"	kind:function	signature:(GdkPixbuf *p1, GdkPixbuf * p2, guint32 px)
+handler	bait.c	30;"	kind:function	signature:(GtkWidget * a, gint b, SCNotification *notify, gpointer userData)
+imgbuf	bait.c	29;"	kind:variable
+main	bait.c	65;"	kind:function	signature:(int argc, char **argv)
